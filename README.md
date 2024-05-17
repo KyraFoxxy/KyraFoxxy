@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KyraFoxxy
+- 👀 I’m interested in programming game mods.
+- 🌱 I’m currently learning C# and python.
+- 📫 How to reach me Discord : Kyra95_
+- 😄 Pronouns: She/Her
