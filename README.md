@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KyraFoxxy
-- 👀 I’m interested in programming game mods.
+- 👀 I’m interested in learning programming and mathematics
 - 🌱 I’m currently learning C# and python.
 - 📫 How to reach me Discord : Kyra95_
 - 😄 Pronouns: She/Her
+- 🍁 I speak french and english fluently.
